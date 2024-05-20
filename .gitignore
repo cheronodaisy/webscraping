@@ -1,0 +1,5 @@
+scrapyenv/
+.env
+/swahili/swahili/spiders/__pycache__
+/swahili/swahili/spiders/example.py
+/swahili/quotes.json
